@@ -1,0 +1,22 @@
+/* @media only screen and (max-width:888px){
+    h1{
+        color: red;
+    }
+} */
+/* @media  */
+/* max-width: coi nhu nho nho hon hoac bang */
+@media (max-width:1236px) and (min-width:768px){
+    h1{
+        color: green;
+    }
+}
+@media (max-width:768px) and (min-width:480px) {
+    h1{
+        color: aqua;
+    }
+}
+@media only screen and (max-width:480px){
+    h1{
+        color: blue;
+    }
+}

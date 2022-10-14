@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 800px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+  
+}
+.phan1{
+    height: 100px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVt0HSvJyPi_dpDDEnJ_HNCxnqPizMEEK3iQ&usqp=CAU);
+    background-size: 100%;   
+}
+ .td{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; 
+    margin-top: 30px;
+}
+p{
+    font-size: 10px;
+    margin-top: 10px;
+    text-align: center;
+}
+.den{
+    display: flex;
+    width: 800px;
+    height: 20px;
+    color: white;
+    background-color: black;
+    margin-top: 20px;
+    font-size: 13px;
+    line-height: 20px;
+}
+.link1{
+    margin-left: 15px;
+}
+.link2{
+    margin-left: 25px;
+}
+.link4{
+    margin-left: 636px;
+}
+.phan2{
+    width: 600px;
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 100px;
+    margin-top: 17px;
+}
+.phan2.p2 p{
+text-align: center;
+}
+.phan1.td h3{
+   margin-left: 370px;
+}
+ h4{
+    margin-left:280px;
+}
+.p2{
+    width: 600px;
+    height: 120px;
+    display: flex;
+    justify-content: space-around;
+    /* margin-top: 10px; */
+
+}
+.p2 img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin-left: 80px;
+    margin-right: 40px;
+    margin-top:8px;
+
+}
+.p2 p{
+    height: 190px;
+    width: 400px;
+    justify-content: flex-end;
+    font-size: 8px;
+    margin-left: 130px;
+}
+.phan3{
+    width: 600px;
+    height: 190px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 30px;
+}
+.box2{
+    width: 600px;
+    height: 190px;
+    display: flex;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.h22{
+    height: 30px;
+    width: 600px;
+    text-align: center;
+}
+img{
+    margin: 10px;
+    height: 60px;
+    width: 140px;
+    margin-left: 30px;
+}
+.phan4{
+    display: flex;
+    width: 800px;
+    height: 35px;
+    background-color: rgb(79, 77, 77);
+    color: rgb(185, 188, 189);
+    align-items: center; 
+    margin: 0 auto;
+    margin-top: 15px;
+}
+h6{
+
+    margin:0 auto;
+}
